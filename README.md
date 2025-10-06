@@ -11,8 +11,8 @@ For device connection and software operation, please refer to the Quick Start Gu
   
 ## Software Download
    Please download the software from the following URL (Release page)
-   Release name:Software_for_evaluation_kit
-   Download Link:
+   <br>Release name:Software_for_evaluation_kit
+   <br>Download Link:
 
   1) two_axis_ads_demo : 
   2) two_axis_ads_polled_demo :
