@@ -29,3 +29,10 @@ For device connection and software operation, please refer to the Quick Start Gu
 
   - /documentation: Getting Started Guide including wiring diagrams and setup instructions.
   - Release Page / Assets / Software ZIP Files (1 to 3)  : Please download the required software from the "Assets" section of the Release page.
+
+
+## Questions and Requests
+
+If you have any questions or requests, please coordinate through Discussions.
+
+Discussions URL : https://github.com/Nitto-Flexible-Sensor/Two_axis_ads_evaluation_kit/discussions
