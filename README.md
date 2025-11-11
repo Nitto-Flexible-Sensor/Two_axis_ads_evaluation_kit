@@ -13,10 +13,10 @@ For device connection and software operation, please refer to the Quick Start Gu
    Please download the software from the following URL (Release page)
    <br>Release name : Software_for_evaluation_kit
    
-   <br>Download Link : 
-  1) two_axis_ads_demo : 
-  2) two_axis_ads_polled_demo :
-  3) two_axis_address_update :
+   <br>Download Link : https://github.com/Nitto-Flexible-Sensor/Two_axis_ads_evaluation_kit/releases
+  1) two_axis_ads_demo : Interrupt mode for detecting bend angle values
+  2) two_axis_ads_polled_demo : Polled mode for detecting bend angle values
+  3) two_axis_address_update : Changes the I2C address of the sensor
 
 
 ## Quick Start
